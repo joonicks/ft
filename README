@@ -1,0 +1,6 @@
+
+Reinventing the wheel again.
+
+My own version of code to traverse a filetree to find specific files.
+In my case a file called meta.txt to manage a library of movies.
+
